@@ -13,7 +13,7 @@ url:                 https://Huni0318.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "공부하는 대학원생"
+tagline:             "Data science & Statistic The master’s course"
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
