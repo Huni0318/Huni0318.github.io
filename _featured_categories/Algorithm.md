@@ -4,7 +4,7 @@ title: Algorithm
 slug: algorithm
 menu: true
 submenu: true
-order: 7
+order: 6
 description: >
   알고리즘 문제 풀이  
 ---
