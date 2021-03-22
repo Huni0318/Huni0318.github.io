@@ -53,8 +53,6 @@ menu:
     url:               /about/
   - title:             Project
     url:               /project/
-  - title:             Study
-    url:               /study/
   - title:             Blog
     url:               /blog/
     submenu:
