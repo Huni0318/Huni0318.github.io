@@ -13,13 +13,7 @@ redirect_from:
 <!--author-->
 
 * * *
-<center>
-<span style=
-"font-size:170%;
-font-weight:bold">
-신상훈
-</span>
-</center>
+
 
 <center>MAJOR : Methmatical Statistic</center>
 
